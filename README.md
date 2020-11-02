@@ -9,4 +9,4 @@ Among other things these notebooks contains:
 * Generating MNIST and Fashion MNIST images.
 * Displaying generated images in a 2D manifold.
 * Running t-sne on input, latent and output space.
-* Comparing interpolattions between input space images(x) and latent space images (xzx). 
+* Comparing interpolations between input space images(x) and latent space images (xzx). 
